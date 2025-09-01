@@ -9,6 +9,8 @@ This project is a minimalist starter template for building modern applications u
 - Styling with Tailwind CSS 4
 - Optimized fonts using `next/font` (Geist and Geist Mono)
 - Linting with Biome
+- Git hooks with Husky for pre-commit validation
+- Conventional commit messages enforced with commitlint
 
 ## 🚀 Getting Started
 
